@@ -1,18 +1,29 @@
-## Olá Eu sou Jorge 👋
+# Olá 🖐
 
-Sou um desenvolvedor em desevolvimento, focando nas linguaguens Python, HTML, CSS e JavaScript.
-Estudante de TI no IFRN
-Estudande Da BlueEdTech
+## Eu me chamo Jorge
+- Eu sou do Brasil, Nordestino
+- Estudando Programação
 
+<div>
+  <a href="https://github.com/Jorgeteixeira00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jorgeteixeira00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeteixeira00&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
-
-### Contatos
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Jorgeteixeira00)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-teixeira-97a090211/)
-[![Intagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jorge_melo_/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=White&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-
+## Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div> 
+  
+  ## Contatos 
+<div>
+  <a href="https://www.instagram.com/_jorge_melo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jorge-teixeira-97a090211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
 <!--
 **Jorgeteixeira00/Jorgeteixeira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
